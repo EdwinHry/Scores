@@ -1,0 +1,12 @@
+/Users/edwin/Projects/Scores/Scores/obj/Debug/netstandard2.0/Scores.csprojAssemblyReference.cache
+/Users/edwin/Projects/Scores/Scores/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/edwin/Projects/Scores/Scores/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/edwin/Projects/Scores/Scores/obj/Debug/netstandard2.0/Scores.csproj.CoreCompileInputs.cache
+/Users/edwin/Projects/Scores/Scores/obj/Debug/netstandard2.0/Scores.AssemblyInfoInputs.cache
+/Users/edwin/Projects/Scores/Scores/obj/Debug/netstandard2.0/Scores.AssemblyInfo.cs
+/Users/edwin/Projects/Scores/Scores/obj/Debug/netstandard2.0/Scores.dll
+/Users/edwin/Projects/Scores/Scores/obj/Debug/netstandard2.0/Scores.pdb
+/Users/edwin/Projects/Scores/Scores/bin/Debug/netstandard2.0/Scores.deps.json
+/Users/edwin/Projects/Scores/Scores/bin/Debug/netstandard2.0/Scores.dll
+/Users/edwin/Projects/Scores/Scores/bin/Debug/netstandard2.0/Scores.pdb
+/Users/edwin/Projects/Scores/Scores/obj/Debug/netstandard2.0/XamlC.stamp

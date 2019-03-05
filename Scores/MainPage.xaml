@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+                 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"  
+                 xmlns:local="clr-namespace:Scores" x:Class="Scores.MainPage"   
+                 Title="Scores" 
+                 NavigationPage.HasBackButton="False">
+        <ContentPage.ToolbarItems>
+            <ToolbarItem x:Name="menuClearScores" Order="Secondary" Text="Clear Scores" Priority="0" Clicked="MenuClearScores_Clicked" />
+            <ToolbarItem x:Name="menuDelete" Order="Secondary" Text="Delete Player" Priority="1" Clicked="MenuDelete_Clicked" />
+            <ToolbarItem x:Name="menuQuit" Order="Secondary" Text="Quit" Priority="2" Clicked="Quit_Clicked" />
+        </ContentPage.ToolbarItems>
+        <ContentPage.Content>
+            <ScrollView x:Name="ScrollView_PlayerList">
+                <StackLayout x:Name="StackPlayerList" Padding="20">
+                    <StackLayout.Children>
+                        <Entry x:Name="entry_PlayerName" Keyboard="Text" FontSize="20" Placeholder="Enter Player Name" HorizontalOptions="Fill" HorizontalTextAlignment="Center" />
+                        <Button x:Name="button_addPlayer" Text="Add Player" Clicked="AddPlayer_Clicked" HorizontalOptions="Center" />
+                    </StackLayout.Children>
+                </StackLayout>
+            </ScrollView>
+       </ContentPage.Content>
+    </ContentPage>
